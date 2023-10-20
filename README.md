@@ -9,7 +9,7 @@ Show image of what design given.
   - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [My process](#my-process)
-  - [Built with](#built-with)
+  - [Tech Stack](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   
@@ -20,7 +20,7 @@ Show image of what design given.
 
 ## My Process
 
-### Built With
+### Tech stack
 
 - HTML5
 - CSS
@@ -29,6 +29,7 @@ Show image of what design given.
 ### What I Learned
 
 Favicon 
+I learnt how to 
 
 Center div element 
 
