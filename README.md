@@ -37,3 +37,4 @@ How to wrap text so it doesn't get larger than QR code image.
 importing fonts from google fonts 
 
 ### Continued Development
+- Make QR component into a responsive design. 
