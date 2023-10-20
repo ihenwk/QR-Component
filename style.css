@@ -1,0 +1,49 @@
+body {
+  background-color: hsl(211, 44%, 89%);
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  /*  when flex direction hasn't been set then flex direction is et to row by default which means main axis is set tto horizontal by default */
+  display: flex; /* creates flex box  */
+  justify-content: center; /*centers content on the main-axis */
+  align-items: center; /*centers content on the cross-axis  */
+  height: 700px; /* need to define height of div container so qr code card is centered in middle of flex container.   */
+}
+
+.qr-code {
+  background-color: hsl(0, 0%, 100%);
+  padding: 15px; /* adds space around the content of the div element */
+  border-radius: 7px; /* makes border of element rounded */
+  text-align: center;
+}
+
+img {
+  border-radius: 7px; /* makes border of image rounded */
+}
+
+/*  specify width of text-content div to the smae width of the image so it doesn't stretch further than the width of the image */
+.text-content {
+  width: 210px;
+}
+
+/* use descendant combinator so all h4 elements in qr-code div element are selected. */
+.qr-code h4 {
+  font-size: 15px;
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+}
+
+/* use descendant combinator so all p elements in qr-code div element are selected. */
+.qr-code p {
+  font-size: 12px;
+  font-weight: 400;
+  color: grey;
+}
+
+.author-info {
+  font-weight: 700;
+  font-size: 15px;
+  text-align: right;
+  color: hsl(218, 44%, 22%);
+}
