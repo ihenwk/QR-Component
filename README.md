@@ -21,8 +21,8 @@ The brief given was to build a QR code component and get it looking as close to 
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5
+- CSS
 - Flexbox
 
 ### What I learned
