@@ -7,24 +7,20 @@ The brief given was to build a QR code component and get it looking as close to 
 
   - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
   - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   
 
-### Links
+## My Process
 
-
-## My process
-
-### Built with
+### Built With
 
 - HTML5
 - CSS
 - Flexbox
 
-### What I learned
+### What I Learned
 
-### Continued development
+### Continued Development
