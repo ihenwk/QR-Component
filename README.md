@@ -2,6 +2,7 @@
 
 The brief given was to build a QR code component and get it looking as close to the design given as possible.
 
+Show image of what design given. 
 
 ## Table of contents
 
@@ -15,6 +16,8 @@ The brief given was to build a QR code component and get it looking as close to 
 ## Screenshot of completed project
 
 
+
+
 ## My Process
 
 ### Built With
@@ -24,5 +27,13 @@ The brief given was to build a QR code component and get it looking as close to 
 - Flexbox
 
 ### What I Learned
+
+Favicon 
+
+Center div element 
+
+How to wrap text so it doesn't get larger than QR code image. 
+
+importing fonts from google fonts 
 
 ### Continued Development
