@@ -12,6 +12,8 @@ The brief given was to build a QR code component and get it looking as close to 
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   
+## Screenshot of completed project
+
 
 ## My Process
 
